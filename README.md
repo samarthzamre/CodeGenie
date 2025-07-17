@@ -20,13 +20,14 @@
 ## 🔧 Built With
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Convex-2D3748?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sandpack-F5A623?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>
+  <img src="https://img.shields.io/badge/Convex-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Convex Badge"/>
+  <img src="https://img.shields.io/badge/Sandpack-FFB200?style=for-the-badge&logo=stackblitz&logoColor=black" alt="Sandpack Badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API Badge"/>
 </p>
+
 
 ---
 
