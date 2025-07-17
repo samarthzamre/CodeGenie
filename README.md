@@ -108,5 +108,6 @@ Integrating Gemini Free API (by Google) for natural language code generation
 Handling live preview rendering using Sandpack
 Managing UI state and logic with React Context API
 Structuring scalable applications with the Next.js 13 App Router
+```
 🧑‍💻 Author
 Samarth Vidhyadas Zamre
