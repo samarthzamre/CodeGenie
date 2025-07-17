@@ -90,18 +90,24 @@ samarthzamre-codegenie/
     ├── Colors.jsx
     ├── Lookup.jsx
     └── Prompt.jsx
+
 ⚙️ Getting Started
+
 1. Clone the Repository
 git clone https://github.com/samarthzamre/samarthzamre-codegenie.git
 cd samarthzamre-codegenie
+
 2. Install Dependencies
 npm install
+
 3. Set Up Environment Variables
 Create a .env.local file and add:
 GEMINI_API_KEY=your_gemini_key
 NEXT_PUBLIC_CONVEX_URL=your_convex_url
+
 4. Run the Development Server
 npm run dev
+
 📌 Learnings
 Using Convex as a serverless backend with Next.js
 Integrating Gemini Free API (by Google) for natural language code generation
